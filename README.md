@@ -1,9 +1,9 @@
 # Vite-AnchorsJS
 Vite-AnchorsJS Template Page 
 <br>
-# Vite-AnchorsJS-Installation
+# Step by step installation
   <ol>
-    <li>New Terminal</li>
+    <li>Open New Terminal</li>
     <li>git clone https://github.com/HasanHuseyinDemir/Vite-AnchorsJS.git</li>
     <li>cd Vite-AnchorsJS</li>
     <li>npm install</li>

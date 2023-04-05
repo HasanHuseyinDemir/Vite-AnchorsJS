@@ -1,7 +1,12 @@
-# Vite-AnchorsJS
-Vite-AnchorsJS Template Page 
+<div align="center">
+<h1>Vite-AnchorsJS</h1>
+Vite-AnchorsJS Template Page
+
+<img width="80%" src="https://github.com/HasanHuseyinDemir/Anchors-Framework/blob/master/Images/img.jpeg"/>
+</div>
+
 <br>
-# Step by Step Installation
+<h1>Step by Step Installation</h1>
   <ol>
     <li>Open New Terminal</li>
   <li><code>git clone https://github.com/HasanHuseyinDemir/Vite-AnchorsJS.git</code></li>

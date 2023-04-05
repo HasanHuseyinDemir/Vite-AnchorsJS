@@ -1,0 +1,109 @@
+@import url("./animations.css");
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#app {
+  font-family: Bebas Neue,Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+}
+
+#logo-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#clock{
+  color:white;
+  font-size: 32px;
+  background: rgba(128,128,128,0.23);
+  
+}
+body{
+  color:white;
+  background: teal;
+}
+a{
+  color:white
+}
+.counter-button{
+  padding: 12px;
+  border: none;
+  border-radius: 3px;
+  margin: 2px;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 18px;
+  width: 100%;
+  transition: .3s;
+  background: rgb(189,255,251);
+}
+.counter-button:hover{
+  background: rgba(0,0,0,0.39);
+  color:white;
+}
+#logo{
+  animation: rotate 3s infinite ease-in-out;
+}
+#logo:hover{
+  cursor: pointer;
+}
+.counter{
+  display: flex;
+}
+#frame-name{
+  letter-spacing: 3px;
+  color:black;
+  transition: .3s ease-in-out;
+}
+#frame-name:hover{
+  color:white;
+  letter-spacing: 1px;
+}
+#frame-name{
+  font-size:32px;
+  padding: 12px;
+}
+#frame-vite {
+  color:rgb(255, 255, 255);
+  font-size: 60px;
+  animation: 3s vitecolors ease-out infinite;
+}
+#frame-vite,#frame-name{
+  user-select: none;
+}
+#clock{
+  transition: .3s;
+}
+
+#clock:hover{
+background: rgba(1,1,1,0.72);
+}
+
+.positive{
+  color:rgb(0,0,0);
+  background: rgb(168,255,128);
+}
+.negative{
+  color:white;
+  background:tomato;
+}
+#vite-logo{
+  transition: .3s ease-out;
+}
+#vite-logo:hover{
+  filter:drop-shadow(3px 3px 40px rgb(247,145,255))
+}

@@ -1,0 +1,18 @@
+{
+  "name": "vite-anchorsjs-template",
+  "version": "0.0.1",
+  "description": "Vite Anchors-Template",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.15"
+  },
+  "dependencies": {
+    "anchorsjs": "^1.5.0"
+  },
+  "author": "Hasan Hüseyin Demir",
+  "license": "MIT"
+}

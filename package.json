@@ -11,7 +11,8 @@
     "vite": "^2.9.15"
   },
   "dependencies": {
-    "anchorsjs": "^1.5.0"
+    "anchorsjs": "^1.5.0",
+    "dyna-css": "^1.0.0"
   },
   "author": "Hasan Hüseyin Demir",
   "license": "MIT"

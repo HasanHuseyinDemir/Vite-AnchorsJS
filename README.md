@@ -12,7 +12,7 @@
 <h1>Step by Step Installation</h1>
   <ol>
     <li>Open New Terminal</li>
-  <li><code>git clone https://github.com/HasanHuseyinDemir/Vite-AnchorsJS.git</code></li>
+  <li><a href="https://github.com/HasanHuseyinDemir/Vite-AnchorsJS/archive/refs/heads/main.zip">Download</a> or <code>git clone https://github.com/HasanHuseyinDemir/Vite-AnchorsJS.git</code></li>
     <li><code>cd Vite-AnchorsJS</code></li>
     <li><code>npm install</code></li>
     <li><code>npm run dev</code></li>

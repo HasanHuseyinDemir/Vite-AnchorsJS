@@ -3,6 +3,7 @@
   <h1>Vite-AnchorsJS</h1>
   <p>Vite-AnchorsJS Template Page</p>
     <p>Integrated with DYNA-CSS</p>
+    <p>v1.5.41</p>
   <div>
 
   <img width="80%" src="https://github.com/HasanHuseyinDemir/Anchors-Framework/blob/master/Images/img.jpeg"/>

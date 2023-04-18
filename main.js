@@ -25,7 +25,7 @@ const Main=()=>{
   //you can use ${Clock} in 'Page' or use Page.component("counter",Counter) for <Counter/>
   //or use just ${Counter} instead of <Counter/>
   Page.component("counter",Counter);//<Counter/>
-  Page.onMount(()=>{console.log("Anchors-JS v1.5")})
+  Page.onMount(()=>{console.log("Anchors-JS v1.5.6")})
 
   return Page
 }

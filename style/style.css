@@ -11,6 +11,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+  color:white;
+  background: #2D9AB7;
 }
 
 #app {
@@ -31,13 +33,6 @@ body{
   font-size: 32px;
   background: rgba(128,128,128,0.23);
   
-}
-body{
-  color:white;
-  background: teal;
-}
-a{
-  color:white
 }
 .counter-button{
   padding: 12px;

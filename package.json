@@ -11,7 +11,7 @@
     "vite": "^2.9.15"
   },
   "dependencies": {
-    "anchorsjs": "^1.5.5-B",
+    "anchorsjs": "^1.5.6",
     "dyna-css": "^1.0.0"
   },
   "author": "Hasan Hüseyin Demir",
